@@ -1,6 +1,6 @@
 # Tug of War
 
-This tech test brief given to me on week 3 of the \_nology tech convention course.
+This tech test brief given to me on week 3 of the \_nology tech conversion course.
 
 ## Description
 
